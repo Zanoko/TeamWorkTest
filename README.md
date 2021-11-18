@@ -1,2 +1,2 @@
 # TeamWorkTest
-test how it works.
+Test How The GitHub Works.
